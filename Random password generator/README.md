@@ -1,1 +1,1 @@
-# it's a p
+# it's a random password generator created using JS , CSS and HTML.
