@@ -1,1 +1,1 @@
-# its a gme called simon say made using js css and html.
+# it's a game called simon say's created using Javascript, CSS and HTML.
